@@ -12,8 +12,11 @@ The platform also serves as a valuable resource for caregivers and parents, offe
 🚀 Features
 
 ✅ Personalized Learning – Adapts to each child's unique needs and learning pace.
+
 ✅ Expert-Guided Assistance – Incorporates guidance from ASD education specialists.
+
 ✅ Caregiver Support – Provides educational resources and expert advice.
+
 ✅ Data-Driven Insights – Analyzes learning progress using analytics and visualizations.
 ✅ Interactive Dashboards – Helps track progress through user-friendly interfaces.
 
