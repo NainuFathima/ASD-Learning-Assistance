@@ -23,9 +23,9 @@ The platform also serves as a valuable resource for caregivers and parents, offe
 
 
 🖥 Operating System – Windows 7 or above, Android. 
-💻 Programming Languages – Python, Java. 
-🛠 Integrated Development Environment (IDE) – PyCharm. 
-🌐 Framework – Django. 
+💻 Programming Languages – Python, Java.  
+🛠 Integrated Development Environment (IDE) – PyCharm.  
+🌐 Framework – Django.  
 🗄 Database – MySQL. 
 
 
