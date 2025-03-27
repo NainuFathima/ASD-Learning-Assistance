@@ -10,7 +10,9 @@ This project develops an innovative smart learning tool designed to cater to the
 The platform also serves as a valuable resource for caregivers and parents, offering expert guidance, educational materials, and support resources to enhance their involvement in the child’s learning journey.
 
 
+
 🚀 Features
+
 
 
 ✅ Personalized Learning – Adapts to each child's unique needs and learning pace.
@@ -24,7 +26,9 @@ The platform also serves as a valuable resource for caregivers and parents, offe
 ✅ Interactive Dashboards – Helps track progress through user-friendly interfaces.
 
 
+
 🛠️ Technologies Used
+
 
 
 🖥 Operating System – Windows 7 or above, Android
@@ -38,7 +42,9 @@ The platform also serves as a valuable resource for caregivers and parents, offe
 🗄 Database – MySQL
 
 
+
 📌 Future Enhancements
+
 
 
 🔹 Advanced Personalization – Use machine learning for continuous adaptation to each child’s needs.
