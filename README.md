@@ -26,7 +26,7 @@ It also serves caregivers and educators by offering **a mobile app**, promoting 
 ---
 
 ## Output Images
-![ output images ]
+![ output images ](https://github.com/NainuFathima/ASD-Learning-Assistance/blob/44c264702f38054e893e4782d951b04a64c370b2/ASD%20SS.pdf)
 
 ## 🌱 Future Enhancements
 
