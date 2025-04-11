@@ -30,15 +30,15 @@ It also serves caregivers and educators by offering **a mobile app**, promoting 
 
 ## 🌱 Future Enhancements
 
-🔁 Adaptive Difficulty Levels for real-time learning adjustment
-📊 Parent & Teacher Dashboards with detailed reports
-📶 Offline Mode for mobile learning without internet
-⌚ Wearable Device Integration for real-time emotion feedback
-🧠 AI-Driven Course Customization based on long-term behavior
-🌐 Multilingual & Cultural Adaptation for global reach
-🔍 Advanced Data Analytics for tracking progress over time
-🧩 Immersive Learning (AR/VR) for sensory-friendly experiences
-💬 Online Communities & Expert Consultation for caregiver support
+- 🔁 Adaptive Difficulty Levels for real-time learning adjustment
+- 📊 Parent & Teacher Dashboards with detailed reports
+- 📶 Offline Mode for mobile learning without internet
+- ⌚ Wearable Device Integration for real-time emotion feedback
+- 🧠 AI-Driven Course Customization based on long-term behavior
+- 🌐 Multilingual & Cultural Adaptation for global reach
+- 🔍 Advanced Data Analytics for tracking progress over time
+- 🧩 Immersive Learning (AR/VR) for sensory-friendly experiences
+- 💬 Online Communities & Expert Consultation for caregiver support
 
 ## 📬 Contact
 Email: **nainufathima1@gmail.com**
