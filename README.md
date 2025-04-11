@@ -41,5 +41,5 @@ It also serves caregivers and educators by offering **a mobile app**, promoting 
 - 💬 Online Communities & Expert Consultation for caregiver support
 
 ## 📬 Contact
-Email: **nainufathima1@gmail.com**
-LinkedIn: **https://www.linkedin.com/in/nainu-fathima-26a525219**
+- Email: **nainufathima1@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/nainu-fathima-26a525219**
